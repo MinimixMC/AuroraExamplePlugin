@@ -1,6 +1,6 @@
 ⚠️ Highly experimental
 
-<h1 align="center">Aurora Example Plugin 🌟</h1>
+<h1 align="center">Aurora Example Plugin ⚡</h1>
 
 > An example plugin for Aurora<br />
 
